@@ -1,0 +1,48 @@
+# jemdoc: menu{MENU}{index.html}
+==Xingquan Li
+
+~~~
+{}{img_left}{./images/lxq/lxq-photo.png}{}{138}{170}{http://people.kth.se/~euhanna/}
+PhD, \n 
+[http://www.kth.se/ees/omskolan/organisation/avdelningar/ac?l=en_UK Institute of Meteorological Big Data-Digital Fujian], \n
+[http://www.kth.se School of Mathematics and Statistics], \n
+[http://www.kth.se Minnan Normal University (MNNU)]\n
+363000, Zhangzhou, China, \n 
+Phone: \+86 135 0000 4501 \n
+E-mail: fzulxq@gmail.com, lixq01@pcl.ac.cn \n
+{{
+<div class="row">
+    <a href="https://scholar.google.com/citations?user=JNoylQgAAAAJ&hl=en"><img src="./images/lxq/google.png" style="width:50%"></a>
+    <a href="https://scholar.google.com/citations?user=JNoylQgAAAAJ&hl=en"><img src="./images/lxq/researchgate.png" style="width:50%"></a>
+    <a href="https://scholar.google.com/citations?user=JNoylQgAAAAJ&hl=en"><img src="./images/lxq/dblp.jpg" style="width:50%"></a>
+    <a href="https://scholar.google.com/citations?user=JNoylQgAAAAJ&hl=en"><img src="./images/lxq/cv.png" style="width:50%"></a>
+</div>
+}}
+~~~
+
+*In an information rich world, the only scarce resource is human attention. ~~~ -----Kevin Kelly*
+
+== About me
+I received the B.S. degree in applied mathematics from Fuzhou University ([http://www.iust.ac.ir FZU]) in 2013. In April 2018, I received the PhD degree in applied mathematics under the supervision of 
+ [http://www.people.kth.se/~mikaelj/ Prof. Wenxing Zhu] at Fuzhou University ([http://www.iust.ac.ir FZU]).  \n
+
+
+== Research
+My research interests include 
+- Electronic Design Automation (EDA)
+- Computers Aided Design (CAD)
+- Optimization Theory and Algorithm (OTA)
+- Graph Neural Networks (GNN)
+- Machine Learning (ML)
+
+[research.html Find out more].
+=== Recent Publications 
+. E. Ghadimi, H. R. Feyzmahdavian, and M. Johansson, \"Global convergence of the heavy-ball method for convex optimization\",  In ECC'15: European Control Conference, 2015.
+. E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson \" Optimal parameter selection for the alternating direction method of
+multipliers (ADMM): quadratic problems \", IEEE Transactions on Automatic Control, 2015. \[[http://arxiv.org/abs/1306.2454 arxiv]\]
+. E. Ghadimi, A. Teixeira, M. Rabbat, and M. Johansson, \"The ADMM algorithm for distributed averaging: Convergence rates and optimal parameter selection\", In Proceedings of the 48th Asilomar Conference on Signals, Systems and Computers, 2014. \[[https://www.dropbox.com/s/k9izxz1m39yvvuz/admm_distributed_aveg.pdf?dl=0 pdf] \]
+. E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \"Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks\", ACM Transactions on Senor Networks, 2014. \[[pub/oppTOSN.pdf pdf]\]
+
+[publications.html Full list of publications].
+\n
+[cv.pdf A brief cv].
