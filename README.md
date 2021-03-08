@@ -1,2 +1,1 @@
-# home
-lxq's home
+https://xingquan-li.github.io/home
