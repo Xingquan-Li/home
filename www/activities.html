@@ -63,60 +63,119 @@ MathJax.Hub.Config({
 <h1>Activities</h1>
 </div>
 <p>These are some extended syntax options that may come in useful.</p>
-<h2>Left aligned image blocks</h2>
-<p>As seen <a href="http://stanford.edu/~jacobm" target=&ldquo;blank&rdquo;>here</a>, for example,
-left-aligned image blocks place an image and allow ordinary jemdoc marked-up
-text to flow around the right-hand side.</p>
-<div class="codeblock">
-<div class="blocktitle">Left-aligned image block syntax</div>
-<div class="blockcontent"><pre>
-~~~
-{}{img_left}{FILENAME.IMG}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
-Ordinary jemdoc markup goes here.
-~~~
-</pre></div></div>
-<p>All arguments may be left blank, though you should specify an image filename,
-and alt text should be descriptive for reasons like
-<a href="http://en.wikipedia.org/wiki/Wikipedia:Alternative_text_for_images" target=&ldquo;blank&rdquo;>those given
-by Wikipedia</a>.</p>
-<h2>Raw blocks</h2>
-<p>When placing large amounts of raw html, you should use a raw block instead of
-<tt>{{inline html escaping}}</tt>. As well as cleaner syntax, raw blocks will avoid
-having <tt>&lt;p&gt;</tt> tags in the wrong places.</p>
-<div class="codeblock">
-<div class="blocktitle">Raw block syntax</div>
-<div class="blockcontent"><pre>
-~~~
-{}{raw}
-Any text here will be copied straight to the output file without processing.
-~~~
-</pre></div></div>
-<h2>Other character sets</h2>
-<p>Here's a quick example of how to include text in a language with a different
-character set.</p>
-<p>To include Korean (<span lang="ko" xml:lang="ko">한국말</span>),
-use something like this:</p>
-<div class="codeblock">
-<div class="blockcontent"><pre>
-{{&lt;span lang="ko" xml:lang="ko"&gt;}}한국말{{&lt;/span&gt;}}
-</pre></div></div>
-<p>(<a href="mailto:jacobm@stanford.edu" target=&ldquo;blank&rdquo;>Let me know</a> if you need better support for your
-language.)</p>
-<h2>Including other files</h2>
-<p>The line</p>
-<div class="codeblock">
-<div class="blockcontent"><pre>
-#include{otherfile.jemdoc}
-</pre></div></div>
-<p>will include the contents of <tt>otherfile.jemdoc</tt> as if the contents were actually
-in the ordinary input file (that is, with full jemdoc substitutions).
-The line</p>
-<div class="codeblock">
-<div class="blockcontent"><pre>
-#includeraw{otherfile.html}
-</pre></div></div>
-<p>will copy the contents of <tt>otherfile.html</tt> verbatim to the current position in
-the output file (that is, without any jemdoc substitutions).</p>
+<h2>Funding</h2>
+<ul>
+<li><p>National Natural Science Foundation of China 2020 (Grant No. 61907024), Research on VLSI mixed-row-height standard cell placement algorithm for advanced process, Hosts</p>
+</li>
+</ul>
+<ul>
+<li><p>The Starting Project of Minnan Normal University 2018 (Grant No. KJ18009),  VLSI mixed-row-height standard cell placement algorithm</p>
+</li>
+</ul>
+<ul>
+<li><p>National Natural Science Foundation of China 2017 (Grant No. 61672005), Research on VLSI placement model and fast algorithm base on the heat conduction equation, Participation.</p>
+</li>
+</ul>
+<h2>Awards</h2>
+<ul>
+<li><p>Excellent Doctor Degree Dissertation In Fujian, 2019</p>
+</li>
+</ul>
+<ul>
+<li><p>Excellent Doctors Introduce Talents of MNNU, 2018</p>
+</li>
+</ul>
+<ul>
+<li><p>First Place at ICCAD Contest on Timing Aware Fill Insertion, 2018</p>
+</li>
+</ul>
+<ul>
+<li><p>Excellent Doctor Degree Dissertation of FZU, 2018</p>
+</li>
+</ul>
+<ul>
+<li><p>First Place at ICCAD Contest on Multi-Deck Standard Cell Legalization, 2017</p>
+</li>
+</ul>
+<ul>
+<li><p>National Scholarship of China, 2017</p>
+</li>
+</ul>
+<h2>Talks</h2>
+<ul>
+<li><p>Xingquan Li, “Graph Based Redundant Via Insertion and Guiding Template Assignment for DSA-MP”, Guilin, China, 2017.</p>
+</li>
+</ul>
+<ul>
+<li><p>Xingquan Li, “Mixed-Cell-Height Placement with Minimum-Implant-Area Constraints”, Haerbin, China, 2018.</p>
+</li>
+</ul>
+<ul>
+<li><p>Xingquan Li, “Layout Decomposition Design for Manufacturability, Putian, China, 2018.</p>
+</li>
+</ul>
+<ul>
+<li><p>Xingquan Li, “A Local Optimal Method on DSA Guiding Template Assignment with Redundant<i>Dummy Via Insertion”， IEEE</i>ACM Asia and South Pacific Design Automation Conference, 2019，Tokyo, Japan，2019.</p>
+</li>
+</ul>
+<ul>
+<li><p>Xingquan Li, “Analytical Mixed-Cell-Height Legalization Considering Average and Maximum Movement Minimization” , ACM International Symposium on Physical Design, San Francisco, CA, USA, 2019.</p>
+</li>
+</ul>
+<ul>
+<li><p>Xingquan Li, “Mixed-Cell-Height Placement with Minimum-Implant-Area Constraints”, Zhangzhou, China, 2019.</p>
+</li>
+</ul>
+<h2>Services</h2>
+<h3>Professional Affiliations</h3>
+<ul>
+<li><p>Member, IEEE</p>
+</li>
+</ul>
+<ul>
+<li><p>Member, CSIAM</p>
+</li>
+</ul>
+<ul>
+<li><p>Member, CCF</p>
+</li>
+</ul>
+<ul>
+<li><p>Member, ORSC</p>
+</li>
+</ul>
+<h3>Professional Services</h3>
+<p>Reviewer of Journals</p>
+<ul>
+<li><p>IEEE TCAD</p>
+</li>
+<li><p>INTEGRATION</p>
+</li>
+<li><p>Supercomputing</p>
+</li>
+<li><p>IJIIDS</p>
+</li>
+</ul>
+<p>Reviewer of Conferences</p>
+<ul>
+<li><p>DAC 2018</p>
+</li>
+<li><p>ICCAD 2017, 2018</p>
+</li>
+<li><p>SASIMI 2017, 2018</p>
+</li>
+<li><p>ASPDAC 2018</p>
+</li>
+</ul>
+<p>Reviewer of Contests</p>
+<ul>
+<li><p>Post-Graduate Mathematical Contest in Modeling (NPMCM)</p>
+</li>
+<li><p>China Undergraduate Mathematical Contest in Model (CUMCM)</p>
+</li>
+<li><p>Fujian Post-Graduate Mathematical Contest in Modeling</p>
+</li>
+</ul>
 <h2>Other packages</h2>
 <ul>
 <li><p><a href="http://www.polytekniker.dk/about.html" target=&ldquo;blank&rdquo;>Jacob Grunnet</a> has written
@@ -133,7 +192,7 @@ jemdoc</a>.</p>
 <div id="footer-container">
 <div id="footer">
 <div id="footer-text">
-Last edited  on March 8<sup>th</sup> 2021  03:14PM (Time Zone: CST). </br>
+Last edited  on March 9<sup>th</sup> 2021  03:51PM (Time Zone: CST). </br>
 Powered by <a href="https://github.com/szl2/jemdoc-new-design" target="blank">Xingquan Li</a>.
 </div> <!-- <div id="footer-text"> -->
 </div> <!-- <div id="footer"> -->

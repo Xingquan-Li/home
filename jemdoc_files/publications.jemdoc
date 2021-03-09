@@ -2,33 +2,68 @@
 = Publications
 
 == Recent Publications 
-. E. Ghadimi, H. R. Feyzmahdavian, and M. Johansson, \"Global convergence of the heavy-ball method for convex optimization\",  In ECC'15: European Control Conference, 2015.
-. E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson \" Optimal parameter selection for the alternating direction method of
-multipliers (ADMM): quadratic problems \", IEEE Transactions on Automatic Control, 2015. \[[http://arxiv.org/abs/1306.2454 arxiv]\]
-. E. Ghadimi, A. Teixeira, M. Rabbat, and M. Johansson, \"The ADMM algorithm for distributed averaging: Convergence rates and optimal parameter selection\", In Proceedings of the 48th Asilomar Conference on Signals, Systems and Computers, 2014. \[[https://www.dropbox.com/s/k9izxz1m39yvvuz/admm_distributed_aveg.pdf?dl=0 pdf] \]
-. E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \"Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks\", ACM Transactions on Senor Networks, 2014. \[[pub/oppTOSN.pdf pdf]\]
+
+- Tingshen Lan, Xingquan Li, Jianli Chen, Jun Yu, Lei He, Shenhua Dong, Wenxing Zhu, Yao-Wen Chang, \"Timing-Aware Fill Insertions with Design-Rule and Density Constraints\", IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 1-8, 2019. *(CCF B)*
+
+- Zhipeng Huang, Xiqiong Bai, Tingshen Lan, Xingquan Li, Geng Lin, \"Unified Contamination-Aware Routing Method Considering Realistic Washing Capacity Constraint in Digital Microfluidic Biochips\", IEEE Access
+vol. 8, pp. 192867--192879, 2020. *(SCI)* \[[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9234397 pdf]\]
+
+- Xingquan Li, Bei Yu, Jianli Chen and Wenxing Zhu, \"DSA guiding template assignment with multiple redundant via and dummy via insertion\", Integration, the VLSI Journal, vol. 70, pp. 32--42, 2020. *(CCF C，SCI)*
+
+- Xingquan Li, Jiangkao Li, Hongxi Wu and Yeh-Cheng Chen, \"Discrete relaxation method for hybrid e-beam and triple patterning lithography layout decomposition
+Authors\", Journal of Ambient Intelligence and Humanized Computing, pp.1--11, 2021. *(CCF C，SCI)*
+
+- Xingquan Li, Hongxi Wu, \"Toward graph classification on structure property using adaptive motif based on graph convolutional network\", The Journal of Supercomputing, pp.1--11, 2021. *(CCF C，SCI)*
 
 == Journals 
-. E. Ghadimi, H. R. Feyzmahdavian, and M. Johansson, \"Global convergence of the heavy-ball method for convex optimization\",  In ECC'15: European Control Conference, 2015.
-. E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson \" Optimal parameter selection for the alternating direction method of
-multipliers (ADMM): quadratic problems \", IEEE Transactions on Automatic Control, 2015. \[[http://arxiv.org/abs/1306.2454 arxiv]\]
-. E. Ghadimi, A. Teixeira, M. Rabbat, and M. Johansson, \"The ADMM algorithm for distributed averaging: Convergence rates and optimal parameter selection\", In Proceedings of the 48th Asilomar Conference on Signals, Systems and Computers, 2014. \[[https://www.dropbox.com/s/k9izxz1m39yvvuz/admm_distributed_aveg.pdf?dl=0 pdf] \]
-. E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \"Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks\", ACM Transactions on Senor Networks, 2014. \[[pub/oppTOSN.pdf pdf]\]
+
+- Xingquan Li, Ziran Zhu and Wenxing Zhu, \"Discrete relaxation method for triple patterning lithography layout decomposition\", IEEE Transactions on Computers, vol. 66, no. 2, pp. 285–298 (2017). *(CCF A，SCI)* \[[http://arxiv.org/abs/1306.2454 arxiv]\]
+
+- Xingquan Li and Wenxing Zhu, \"Two-Stage Layout Decomposition for Hybrid E-Beam and Triple Patterning Lithography\", ACM Transactions on Design Automation of Electronic Systems, vol. 23, no. 1 (2017). *(CCF B，SCI)*
+
+- Xingquan Li, Jianli Chen and Wenxing Zhu, \"Discrete Relaxation Method for Contact Layer Decomposition of DSA with Triple Patterning\", Integration, the VLSI Journal, vol. 61, no. 1, pp. 77-87 (2018). *(CCF C，SCI)*
+
+- Xingquan Li, Bei Yu, Jiaojiao Ou, Jianli Chen, David Z. Pan and Wenxing Zhu, \"Graph Based Redundant Via Insertion and Guiding Template Assignment for DSA-MP\", IEEE Transactions on Very Large Scale Integration Systems, vol. 26, no. 11, pp. 2504-2517, (2018). *(CCF B，SCI)*
+
+- Tingshen Lan, Xingquan Li, Jianli Chen, and Wenxing Zhu, \"Digital microfluidic biochip routing method considering contamination and washing capacity\", BASIC & CLINICAL PHARMACOLOGY & TOXICOLOGY, vol. 124, pp. 61-61, 2018. *(SCI)*
+
+- Lanlan Kang, Ruey-Shun Chen, Yeh-Cheng Chen, Chung-Chei Wang, Xingguan Li, and Tsu-Yang Wu, \"Using Cache Optimization Method to Reduce Network Traffic in Communication Systems Based on Cloud Computing\", IEEE ACCESS, DOI. 10.1109/ACCESS.2019, 2019. *(SCI)*
+
+- Xingquan Li, Bei Yu, Jianli Chen, and Wenxing Zhu, \"DSA Guiding Template Assignment with Multiple Redundant Via and Dummy Via Insertion\"， Integration, the VLSI Journal, 2019. *(CCF C，SCI)*
+
+- Xingquan Li, Cong Cao, and Tao Zhang, \"Block Diagonal Dominance Based Dynamic Programming for Detecting Community\", The Journal of Supercomputing, 2019. *(SCI)*
+
+- Zhipeng Huang, Xiqiong Bai, Tingshen Lan, Xingquan Li, Geng Lin, \"Unified Contamination-Aware Routing Method Considering Realistic Washing Capacity Constraint in Digital Microfluidic Biochips\", IEEE Access
+vol. 8, pp. 192867--192879, 2020. *(SCI)* \[[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9234397 pdf]\]
+
+- Xingquan Li, Bei Yu, Jianli Chen and Wenxing Zhu, \"DSA guiding template assignment with multiple redundant via and dummy via insertion\", Integration, the VLSI Journal, vol. 70, pp. 32--42, 2020. *(CCF C，SCI)*
+
+- Xingquan Li, Jiangkao Li, Hongxi Wu and Yeh-Cheng Chen, \"Discrete relaxation method for hybrid e-beam and triple patterning lithography layout decomposition\", Journal of Ambient Intelligence and Humanized Computing, pp.1--11, 2021. *(CCF C，SCI)*
+
+- Xingquan Li, Hongxi Wu, \"Toward graph classification on structure property using adaptive motif based on graph convolutional network\", The Journal of Supercomputing, pp.1--11, 2021. *(CCF C，SCI)*
 
 
 == Conferences 
-. E. Ghadimi, H. R. Feyzmahdavian, and M. Johansson, \"Global convergence of the heavy-ball method for convex optimization\",  In ECC'15: European Control Conference, 2015.
-. E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson \" Optimal parameter selection for the alternating direction method of
-multipliers (ADMM): quadratic problems \", IEEE Transactions on Automatic Control, 2015. \[[http://arxiv.org/abs/1306.2454 arxiv]\]
-. E. Ghadimi, A. Teixeira, M. Rabbat, and M. Johansson, \"The ADMM algorithm for distributed averaging: Convergence rates and optimal parameter selection\", In Proceedings of the 48th Asilomar Conference on Signals, Systems and Computers, 2014. \[[https://www.dropbox.com/s/k9izxz1m39yvvuz/admm_distributed_aveg.pdf?dl=0 pdf] \]
-. E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \"Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks\", ACM Transactions on Senor Networks, 2014. \[[pub/oppTOSN.pdf pdf]\]
+
+- Ye Huang, Xinquan Li, Wenxing Zhu and Jianli Chen, \"Cut Redistribution and DSA Template Assignment for Unidirectional Design,\" In Proceedings of ASICON (ASICON), 2017. *(EI)*
+
+- Jianli Chen, Peng Yang, Ye Huang, Xingquan Li, Wenxing Zhu and Yao-Wen Chang, \"Mixed-Cell-Height Placement with Minimum-Implant-Area Constraints,\" In Proceedings of IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2018. *(CCF B)*
+
+- Ziran Zhu, Xingquan Li, Yuhang Chen, Zhipeng Huang, Jianli Chen and Wenxing Zhu, \"Technology and Region Constraints-Aware Multi-Deck Standard Cell Legalization,\" In Proceedings of IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2018. *(CCF B)*
+
+- Hao Geng, Haoyu Yang, Bei Yu, Xingquan Li and Xuan Zeng, \"Sparse VLSI Layout Feature Extraction: A Dictionary Learning Approach (Invited),\" In Proceedings of IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2018. *(EI)*
+
+- Xingquan Li, Bei Yu, Jianli Chen and Wenxing Zhu, \"A Local Optimal Method on DSA Guiding Template Assignment with Redundant/Dummy Via Insertion,\" In Proceedings of IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2019. *(CCF C)*
+
+- Xingquan Li, Jianli Chen, Yuhang Chen, Ziran Zhu, Wenxing Zhu and Yao-Wen Chang, \"Analytical Mixed-Cell-Height Legalization Considering Average and Maximum Movement Minimization,\" In Proceedings of ACM International Symposium on Physical Design (ISPD), 2019. *(CCF C)*
+
+- Jianli Chen, Tingshen Lan, Xingquan Li, Ye Huang, Zhipeng Huang and Wenxing Zhu, \"Timing-Aware Fill Insertions with Uniformity Constraints,\" In Proceedings of IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2019. *(CCF B)*
+
+- Cong Cao, Xingquan Li, Jianli Chen, and Wenxing Zhu, \"Mask And Template Assignment on DSA-MP With Triple BCP Materials Lithography\", China Semiconductor Technology International Conference (CSTIC), 2019. *(EI)*
+
+- Tingshen Lan, Xingquan Li, Jianli Chen, Jun Yu, Lei He, Shenhua Dong, Wenxing Zhu, Yao-Wen Chang, \"Timing-Aware Fill Insertions with Design-Rule and Density Constraints\", IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 1-8, 2019. *(CCF B)*
+
 
 == Dissertation
-. E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \"Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks\", ACM Transactions on Senor Networks, 2014. \[[pub/oppTOSN.pdf pdf]\]
 
-# jemdoc: menu{MENU}{underscore.html}, nofooter
-== Underscore Example
-
-Like *bold* and /italic/, _underscore_ can be used for emphasis in this modified version of +jemdoc+.  Useful for highlighting different parts of a bibliography item as:
-
-1. _First Author_, Second Author, and *Corresponding Author*, "Amazing Paper," /High-impact Journal/, vol.~1, pp.~1--10 (2014).
+[PHD] Xingquan Li, \"Layout Decomposition Design for Manufacturability\", Ph.D. Dissertation at Fuzhou University, June 2018. (paper) (Excellent Doctor Degree Dissertation Award in Fujian)

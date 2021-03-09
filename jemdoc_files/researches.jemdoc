@@ -3,51 +3,201 @@
 
 This page contains all my projects.
 
-== 2020
+############################
+== Layout Decomposition
 ~~~
 {}{img_left}{./images/pic01.png}{}{280px}{}{}
-== Possibly broke spacetime
-=== Lorem ipsum dolor sit amet nullam id egestas urna aliquam
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.
+== 
+=== Discrete Relaxation Method for Triple Patterning Lithography Layout Decomposition
+
+We consider the triple patterning lithography layout decomposition problem. To address the problem, a discrete relaxation theory is built.
+~~~
+
+~~~
+{}{img_left}{./images/pic01.png}{}{280px}{}{}
+== 
+=== Two-Stage Layout Decomposition for Hybrid E-Beam and Triple Patterning Lithography
+
+Hybrid e-beam lithography (EBL) and triple patterning lithography (TPL) are advanced technologies for the manufacture of integrated circuits. 
+We propose a technology that combines the advantages of EBL and TPL, which is more promising for the pattern product industry. Layout decomposition is a crucial step in this technology.
+~~~
+
+~~~
+{}{img_left}{./images/pic01.png}{}{280px}{}{}
+== 
+=== Discrete relaxation method for contact layer decomposition of DSA with triple patterning
+
+Mixed-cell-height standard cells are prevailingly used in advanced Block copolymer directed self-assembly (DSA) is a simple and promising candidate next-generation device fabrication technology, 
+which is low-cost as complement with multi-patterning for contact layer patterning.
 ~~~
 
 
-== 2019
+~~~
+{}{img_left}{./images/pic01.png}{}{280px}{}{}
+== 
+=== Discrete relaxation method for hybrid e-beam and triple patterning lithography layout decomposition
+
+Mixed-cell-height standard cells are prevailingly used in advanced Block copolymer directed self-assembly (DSA) is a simple and promising candidate next-generation device fabrication technology, 
+which is low-cost as complement with multi-patterning for contact layer patterning.
+~~~
+
+
+#################################
+== Template Assignment
 ~~~
 {}{img_left}{./images/pic02.png}{}{280px}{}{}
-== Terraformed a small moon
-=== Lorem ipsum dolor sit amet nullam id egestas urna aliquam
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.
+==  
+=== Cut Redistribution and DSA Template Assignment for Unidirectional Design
+
+With shrinking transistors in advanced circuit designs, 
+directed self-assembly (DSA) is considered as one of the most promising techniques for cut patterning in 1-D gridded design, due to its low cost and high-manufacturing throughput.
+~~~
+
+~~~
+{}{img_left}{./images/pic02.png}{}{280px}{}{}
+== 
+=== Graph-Based Redundant Via Insertion and Guiding Template Assignment for DSA-MP
+
+Inserting redundant vias is necessary for improving via yield in circuit designs. 
+Block copolymer directed self-assembly (DSA) is an emerging and promising lithography technology for the manufacture of vias and redundant vias, in which guiding templates are used to enhance the resolution. Considering manufacturability of via layer, multiple patterning (MP) lithography is also needed in advanced designs.
+~~~
+
+~~~
+{}{img_left}{./images/pic02.png}{}{280px}{}{}
+== 
+=== A Local Optimal Method on DSA Guiding Template Assignment with Redundant/Dummy Via Insertion
+
+As an emerging manufacture technology, block copolymer directed self-assembly (DSA) is promising for via layer fabrication. Meanwhile, redundant via insertion is considered as an essential step for yield improvement.
+~~~
+
+~~~
+{}{img_left}{./images/pic02.png}{}{280px}{}{}
+== 
+=== Mask and Template Assignment on DSA-MP with Triple BCP Materials Lithography
+
+In the sub-7nm technology nodes, as the mask cost for printing the dense via layers increases dramatically with conventional lithography techniques, 
+triple block copolymer (triple-BCP) materials for directed self-assembly (DSA) lithography is considered as a promising technology to reduce the mask cost.
+~~~
+
+~~~
+{}{img_left}{./images/pic02.png}{}{280px}{}{}
+== 
+=== DSA guiding template assignment with multiple redundant via and dummy via insertion
+
+As an emerging manufacture technology, block copolymer directed self-assembly (DSA) is promising for via layer fabrication. 
+Meanwhile, redundant via insertion is considered as an essential step for yield improvement. 
+For better reliability and manufacturability, in this paper, we first concurrently consider DSA guiding template cost assignment with multiple redundant via and dummy via insertion.
+~~~
+
+
+
+#################################
+== Layout Optimization
+~~~
+{}{img_left}{./images/pic04.png}{}{280px}{}{}
+== 
+=== Sparse VLSI Layout Feature Extraction: A Dictionary Learning Approach
+
+Recently, in VLSI design for manufacturability (DFM), capturing and representing the intrinsic characteristics of a layout is of great importance. 
+Especially, there has been revival of interest in applying machine learning techniques into DFM field. 
+~~~
+
+
+#################################
+== Biochip Design
+~~~
+{}{img_left}{./images/pic05.png}{}{280px}{}{}
+== 
+=== Digital microfluidic biochip routing method considering contamination and washing capacity
+
+As an emerging device in biochemistry, digital microfluidic biochips (DMFBs) can integrate a series of basic operations into a few square centimeter chips. 
+By embedding a programmable electrode array on the chip, DMFBs can independently control the movement of each discrete sample droplet. For a complete bioassay on the DMFBs, it will be divided into a series of successive sub-problems to be performed separately.
+~~~
+
+~~~
+{}{img_left}{./images/pic05.png}{}{280px}{}{}
+== 
+=== Unified Contamination-Aware Routing Method Considering Realistic Washing Capacity Constraint in Digital Microfluidic Biochips
+
+
+As an emerging device in biochemistry, digital microfluidic biochips (DMFBs) can integrate a series of basic operations into a few square centimeter chips. 
+By embedding a programmable electrode array on the chip, DMFBs can independently control the movement of each discrete sample droplet. For a complete bioassay on the DMFBs, it will be divided into a series of successive sub-problems to be performed separately.
+~~~
+
+
+##############################
+== Fill Insertion
+~~~
+{}{img_left}{./images/pic05.png}{}{280px}{}{}
+== 
+=== Timing-Aware Fill Insertions with Design-Rule and Density Constraints
+
+Metal fill insertion has become an essential step to reduce dielectric thickness variation and improve pattern uniformity, which is important in mitigating process variations, thereby achieving better manufacturing yield. However, metal fills could induce coupling capacitance, which is not often considered in existing works that typically focus more on pattern density uniformity, incurring significant problems in timing closure. 
+~~~
+
+
+#################################
+== Legalization
+~~~
+{}{img_left}{./images/pic03.png}{}{280px}{}{}
+== 
+=== Mixed-Cell-Height Legalization Considering Technology and Region Constraints
+
+Mixed-cell-height circuits have become popular in advanced technologies for better power, area, routability, and performance tradeoffs. With the technology and region constraints imposed by modern circuit designs, the mixed-cell-height legalization problem has become more challenging.
 ~~~
 
 ~~~
 {}{img_left}{./images/pic03.png}{}{280px}{}{}
-== Snapped dark matter in the wild
-=== Lorem ipsum dolor sit amet nullam id egestas urna aliquam
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.
+== 
+=== Mixed-Cell-Height Placement with Complex Minimum-Implant-Area Constraints
+
+Mixed-cell-height standard cells are prevailingly used in advanced technologies to achieve better design trade-os among timing, power, and routability. 
+As feature size decreases, placement of cells with multiple threshold voltages may violate the complex minimum implant-area (MIA) layer rule arising from the limitations of patterning technologies.
 ~~~
 
+~~~
+{}{img_left}{./images/pic03.png}{}{280px}{}{}
+== 
+=== Analytical Mixed-Cell-Height Legalization Considering Average and Maximum Movement Minimization
+
+Modern circuit designs often contain standard cells of different row heights to meet various design requirements. 
+Due to the higher interference among heterogeneous cell structures, the legalization problem for mixed-cell-height standard cells becomes more challenging. In this paper, we present an analytical legalization algorithm for mixed-cell-height standard cells to simultaneously minimize the average and the maximum cell movements.
+~~~
+
+
+
+#################################
+== Graph Network
+
+~~~
+{}{img_left}{./images/pic04.png}{}{280px}{}{}
+== 
+=== Using Cache Optimization Method to Reduce Network Traffic in Communication Systems Based on Cloud Computing
+
+The overwhelming increase of population will lead to an increase network traffic usage. 
+In most products, local cache mechanism is implemented for the purpose of reducing the network traffics. 
+However, Due to storage space limitations, lot of times, cache will get purged when there are lots of queries sent and replaced by other newest queries. It is not an efficient by using traditional methodology to build or forming cache.
+~~~
 
 
 ~~~
 {}{img_left}{./images/pic04.png}{}{280px}{}{}
-== Sed eu mauris sed dolor commodo efficitur eget at augue
-=== Proin consectetur sapien sit amet sagittis pharetra
-Mauris ut massa placerat, pellentesque nibh sit amet, sodales diam. Mauris leo odio, rhoncus et consectetur ut, suscipit et elit. Praesent non mollis nibh, at rhoncus est.
-~~~
+== 
+=== Block diagonal dominance‑based dynamic programming for detecting community
 
-== 2018
-
-~~~
-{}{img_left}{./images/pic05.png}{}{280px}{}{}
-== Donec gravida rutrum libero
-=== Curabitur mollis elementum mauris in volutpat
-Aenean posuere erat vel rutrum mollis. Aliquam mattis augue erat. Sed tellus turpis, laoreet id turpis vel, fringilla pulvinar nisi. Ut vitae euismod diam, et luctus tellus.
+Clustering or partition is a fundamental work for graph or network. 
+Detecting communities is a typical clustering, which divides a network into several parts according to the modularity. 
+Community detection is a critical challenge for designing scalable, adaptive and survivable trust management protocol for a community of interest based social IoT system. Most of the existed methods on community detection suffer from a common issue that the number of communities should be prior decided. This urges us to estimate the number of communities from the data by some way.
 ~~~
 
 ~~~
-{}{img_left}{./images/pic06.png}{}{280px}{}{}
-== Aliquet scelerisque risus tincidunt a
-=== Pellentesque dapibus, odio quis varius consequat
-Nunc eget ex et odio tempus convallis sed in eros. Aliquam laoreet bibendum erat, vitae accumsan tellus.
+{}{img_left}{./images/pic04.png}{}{280px}{}{}
+== 
+=== Toward graph classification on structure property using adaptive motif based on graph convolutional network
+
+Clustering or partition is a fundamental work for graph or network. 
+Detecting communities is a typical clustering, which divides a network into several parts according to the modularity. 
+Community detection is a critical challenge for designing scalable, adaptive and survivable trust management protocol for a community of interest based social IoT system. Most of the existed methods on community detection suffer from a common issue that the number of communities should be prior decided. This urges us to estimate the number of communities from the data by some way.
 ~~~
+
+

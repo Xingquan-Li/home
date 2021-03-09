@@ -3,64 +3,80 @@
 
 These are some extended syntax options that may come in useful.
 
-== Left aligned image blocks
-As seen [http://stanford.edu/~jacobm here], for example,
-left-aligned image blocks place an image and allow ordinary jemdoc marked-up
-text to flow around the right-hand side.
-~~~
-{Left-aligned image block syntax}{}
-\~~~
-\{}{img_left}{FILENAME.IMG}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
-Ordinary jemdoc markup goes here.
-\~~~
-~~~
+== Funding
 
-All arguments may be left blank, though you should specify an image filename,
-and alt text should be descriptive for reasons like
-[http://en.wikipedia.org/wiki/Wikipedia:Alternative_text_for_images those given
-by Wikipedia].
+- National Natural Science Foundation of China 2020 (Grant No. 61907024), Research on VLSI mixed-row-height standard cell placement algorithm for advanced process, Hosts
 
-== Raw blocks
-When placing large amounts of raw html, you should use a raw block instead of
-+\{\{inline html escaping\}\}+. As well as cleaner syntax, raw blocks will avoid
-having +<p>+ tags in the wrong places.
-~~~
-{Raw block syntax}{}
-\~~~
-\{}{raw}
-Any text here will be copied straight to the output file without processing.
-\~~~
-~~~
+- The Starting Project of Minnan Normal University 2018 (Grant No. KJ18009),  VLSI mixed-row-height standard cell placement algorithm
 
-== Other character sets
-Here's a quick example of how to include text in a language with a different
-character set.
+- National Natural Science Foundation of China 2017 (Grant No. 61672005), Research on VLSI placement model and fast algorithm base on the heat conduction equation, Participation.
 
-To include Korean ({{<span lang="ko" xml:lang="ko">}}한국말{{</span>}}),
-use something like this:
-~~~
-{}{}
-{{<span lang="ko" xml:lang="ko">}}한국말{{</span>}}
-~~~
 
-([jacobm@stanford.edu Let me know] if you need better support for your
-language.)
+== Awards
 
-== Including other files
-The line
-~~~
-{}{}
-\#include{otherfile.jemdoc}
-~~~
-will include the contents of +otherfile.jemdoc+ as if the contents were actually
-in the ordinary input file (that is, with full jemdoc substitutions).
-The line
-~~~
-{}{}
-\#includeraw{otherfile.html}
-~~~
-will copy the contents of +otherfile.html+ verbatim to the current position in
-the output file (that is, without any jemdoc substitutions).
+- Excellent Doctor Degree Dissertation In Fujian, 2019
+
+- Excellent Doctors Introduce Talents of MNNU, 2018
+
+- First Place at ICCAD Contest on Timing Aware Fill Insertion, 2018
+
+- Excellent Doctor Degree Dissertation of FZU, 2018
+
+- First Place at ICCAD Contest on Multi-Deck Standard Cell Legalization, 2017
+
+- National Scholarship of China, 2017
+ 
+
+== Talks
+
+- Xingquan Li, “Graph Based Redundant Via Insertion and Guiding Template Assignment for DSA-MP”, Guilin, China, 2017.
+
+- Xingquan Li, “Mixed-Cell-Height Placement with Minimum-Implant-Area Constraints”, Haerbin, China, 2018.
+
+- Xingquan Li, “Layout Decomposition Design for Manufacturability, Putian, China, 2018.
+
+- Xingquan Li, “A Local Optimal Method on DSA Guiding Template Assignment with Redundant/Dummy Via Insertion”， IEEE/ACM Asia and South Pacific Design Automation Conference, 2019，Tokyo, Japan，2019.
+
+- Xingquan Li, “Analytical Mixed-Cell-Height Legalization Considering Average and Maximum Movement Minimization” , ACM International Symposium on Physical Design, San Francisco, CA, USA, 2019.
+
+- Xingquan Li, “Mixed-Cell-Height Placement with Minimum-Implant-Area Constraints”, Zhangzhou, China, 2019.
+
+
+== Services
+
+=== Professional Affiliations
+
+- Member, IEEE
+
+- Member, CSIAM
+
+- Member, CCF
+
+- Member, ORSC
+ 
+=== Professional Services
+Reviewer of Journals
+
+- IEEE TCAD
+- INTEGRATION
+- Supercomputing
+- IJIIDS
+ 
+
+Reviewer of Conferences
+- DAC 2018
+- ICCAD 2017, 2018
+- SASIMI 2017, 2018
+- ASPDAC 2018
+ 
+
+Reviewer of Contests
+
+- Post-Graduate Mathematical Contest in Modeling (NPMCM)
+- China Undergraduate Mathematical Contest in Model (CUMCM)
+- Fujian Post-Graduate Mathematical Contest in Modeling
+ 
+
 
 == Other packages
 - [http://www.polytekniker.dk/about.html Jacob Grunnet] has written
